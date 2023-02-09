@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Animation RG\n\n\nGit reference:\n\nhttps://github.com/michalsnik/aos",
+    "image": "//s3.amazonaws.com/appforest_uf/f1674282533501x218988977461526100/100131-icon-list.gif",
+    "license": "open_source",
+    "link": "https://michalsnik.github.io/aos/",
+    "name": "Repeating Group Animate",
+    "plugin_instructions": "Set ID Reapeting Group in \"container\"\n\n"
+}
